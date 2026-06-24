@@ -1,0 +1,6 @@
+{
+  "name": "Sabji Mandi",
+  "description": "A direct marketplace for farmers to list crops using voice or local language, and for nearby customers, restaurants, and wholesalers to purchase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
